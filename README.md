@@ -1,6 +1,9 @@
 https://replit.com/@mariaconde3/Advinhe-Numbers-Inicio#main.py link do jogo
 _PARA JOGAR ESSTE JOGO FAÇA O UPLOAD DA PASTA COMPLETA E JOGUE O "COMPLETO"_
 
+https://youtu.be/_2M5QaOdO9o?si=CzOreoh3OvI6Pk0Y - Link do Video explicando programa postado no YT
+
+
 Devido às dificuldades encontradas na programação do jogo de caça-palavras, a equipe decidiu alterar o foco do projeto para desenvolver um novo jogo. 
 Essa mudança permitirá que possamos explorar conceitos mais viáveis e interessantes, garantindo uma experiência mais agradável e acessível para os jogadores.
 
